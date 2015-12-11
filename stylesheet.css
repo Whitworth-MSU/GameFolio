@@ -128,7 +128,7 @@ html{
 #whypick{
   float: left;
   margin-left: 25px;
-  width: 900px;
+  width: 700px;
   height: 300px;
   text-align: right;
 }
@@ -142,7 +142,7 @@ html{
   margin-left:200px;
   float:left;
   height: 500px;
-  width: 700px;
+  width: 900px;
 }
 #actual{
   float:left;
